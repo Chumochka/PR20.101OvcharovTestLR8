@@ -1,0 +1,6 @@
+C:\Users\Miller\source\repos\TestLR8\TestLR8\bin\Debug\TestLR8.dll
+C:\Users\Miller\source\repos\TestLR8\TestLR8\bin\Debug\TestLR8.pdb
+C:\Users\Miller\source\repos\TestLR8\TestLR8\obj\Debug\TestLR8.csprojAssemblyReference.cache
+C:\Users\Miller\source\repos\TestLR8\TestLR8\obj\Debug\TestLR8.csproj.CoreCompileInputs.cache
+C:\Users\Miller\source\repos\TestLR8\TestLR8\obj\Debug\TestLR8.dll
+C:\Users\Miller\source\repos\TestLR8\TestLR8\obj\Debug\TestLR8.pdb
